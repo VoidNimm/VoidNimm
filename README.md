@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?voidnimm=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 # 💫 About Me:
 I'm student at smkn 6 jakarta<br>I’m currently learning Next.JS, MongoDB, PostgresSQL, API<br>All of my projects are available at nimghanim.my.id<br>Ask me about Web development and UI/UX<br>How to reach me akmalghanim77@gmail.com<br>Know about my experiences https://drive.google.com/file/d/1UnG_UEmNp2WnDxnAvTEkZrUc0onlFBQm/view?usp=sharing
 
