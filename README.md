@@ -1,10 +1,4 @@
-- uses: Platane/snk@v3
-  with:
-    VoidNimm: ${{ github.repository_owner }}
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+![snake gif](https://github.com/VoidNimm/VoidNimm/blob/output/github-snake-dark.svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=voidnimm&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
